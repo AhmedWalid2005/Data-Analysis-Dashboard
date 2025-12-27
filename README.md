@@ -6,3 +6,23 @@ I developed an end-to-end Power BI project to transform raw data into actionable
 
 
 <a href="https://github.com/AhmedWalid2005/Data-Analysis-Dashboard/edit/main/README.md">Power BI Project Data - N Analysis</a>
+
+
+## Questions (KPIs)
+Sales & Orders Correlation: How do sales trends align with the number of orders across different periods?
+
+Monthly Peak Performance: Which specific month achieved the maximum revenue and order volume?
+
+Customer Segmentation: What is the breakdown of sales between different customer segments (e.g., Men vs. Women)?
+
+Order Status Overview: What is the distribution of orders (Delivered, Cancelled, Returned, etc.) within the dataset?
+
+Geographical Contribution: Which are the top-performing regions/states driving the majority of the revenue?
+
+Demographic Insights: What is the relationship between age groups and gender in terms of order frequency?
+
+Channel Efficiency: Which sales platforms or channels are generating the highest ROI and sales volume?
+
+Top Product Categories: Which product categories are the "best-sellers" in terms of quantity and value?
+
+Operational Health: What is the final percentage of successfully delivered orders compared to the total?
