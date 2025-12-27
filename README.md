@@ -1,2 +1,2 @@
 # Data-Analysis-Dashboard
-This is a Power BI file, which is an interactive data analysis report. It contains data tables, visualizations, and calculation formulas designed to transform raw numbers into easy-to-understand visual insights.
+I developed an end-to-end Power BI project to transform raw data into actionable insights. The process involved building a robust data model, implementing complex DAX measures for advanced calculations, and designing interactive dashboards. I handled the entire pipeline, from data extraction and cleaning via Power Query to creating dynamic visualizations that simplify decision-making.
